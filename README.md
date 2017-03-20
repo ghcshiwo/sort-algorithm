@@ -4,7 +4,8 @@
 
 | 排序算法 | 平均时间复杂度 | 最好 |  最坏 | 空间复杂度 | 排序方式 | 稳定性 |
 |-| - | - | - | - | - | - |
-| 选择排序 | O(n<sub>2</sub>) |   O(n)   | O(n<sup>2</sup>) |    O(1)    | in-place | 不稳定 |
+| 选择排序 | O(n<sup>2</sup>) | O(n) | O(n<sup>2</sup>) | O(1) | in-place | 不稳定 |
+| 插入排序 | O(n<sup>2</sup>) | O(n) | O(n<sup>2</sup>) | O(1) | in-place | 稳定 |
 
 ### 选择排序---selection-sort
 
